@@ -156,7 +156,7 @@ Stock Photos
 
 @media screen and (max-width: 576px) {
   .photos-center {
-    grid-template-columns: repeat(auto-fill, minmax(368px, 1fr));
+    grid-template-columns: auto;
   }
   .logo {
     font-size: 1rem;
